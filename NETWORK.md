@@ -1,17 +1,11 @@
-# Zion AI Cloud Cost Navigator — Zion App Network
+# 🔗 Zion App Network
 
-Cloud Cost Navigator — compare cloud scenarios and estimate spend across providers. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-- 🔗 Live app: [https://cloud-cost.ziontechgroup.com](https://cloud-cost.ziontechgroup.com)
-- 🏠 Category: [Cost, FinOps & Cloud](https://github.com/Zion-support/zion-network/blob/main/network/cost-finops-cloud.md)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-## Related apps in the network
-
-- [Zion AI Cost Optimizer](https://github.com/Zion-support/zion-ai-cost-optimizer) — rightsizing, waste detection and savings
-- [Cloud Cost Estimator](https://github.com/Zion-support/cloud-cost-estimator) — multi-cloud price comparison
-- [FinOps Spend Analyzer](https://github.com/Zion-support/finops-spend-analyzer) — cloud cost breakdown
-- [Zion AI FinOps Radar](https://github.com/Zion-support/zion-ai-finops-radar) — streaming billing anomaly detection
-- [Zion AI Capacity Planner](https://github.com/Zion-support/zion-ai-capacity-planner) — AI capacity planning
-
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+**Related apps:** [zion-ai-cost-optimizer](https://github.com/Zion-support/zion-ai-cost-optimizer) · [cloud-cost-estimator](https://github.com/Zion-support/cloud-cost-estimator) · [zion-ai-finops](https://github.com/Zion-support/zion-ai-finops)
