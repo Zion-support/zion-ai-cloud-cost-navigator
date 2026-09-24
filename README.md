@@ -1,17 +1,16 @@
-# zion-ai-cloud-cost-navigator
-Cloud Cost Navigator — compare cloud scenarios and estimate spend across providers. Part of the Zion Tech Group app network.
+# Zion AI Cloud Cost Navigator
 
-- 📐 Live app: https://cloud-cost.ziontechgroup.com
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
+Compare cloud scenarios and estimate spend across AWS, Azure and GCP.
 
-## Zion App Network (related apps)
-- [zion-greencloud](https://github.com/Zion-support/zion-greencloud) — https://greencloud.ziontechgroup.com
-- [zion-ai-roi-calculator](https://github.com/Zion-support/zion-ai-roi-calculator) — https://roi-calculator.ziontechgroup.com
-- [zion-ai-energy-sentinel](https://github.com/Zion-support/zion-ai-energy-sentinel) — https://ziontechgroup.com/zion-ai-energy-sentinel/
-- [zion-llm-observatory](https://github.com/Zion-support/zion-llm-observatory) — https://llm-observability.ziontechgroup.com
+**Live app:** https://ziontechgroup.com/zion-ai-cloud-cost-navigator/
 
----
-🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · Apps hub: https://ziontechgroup.com/zion-apps-hub/
+## Features
+- Cross-cloud scenario comparison
+- Commitment vs on-demand modeling
+- Egress and hidden-cost surfacing
 
-© 2026 Zion Tech Group · https://ziontechgroup.com
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [AI FinOps Suite](https://github.com/Zion-support/ai-finops-suite) · [Cost Optimizer](https://github.com/Zion-support/zion-ai-cost-optimizer) · [Cloud Migration Planner](https://github.com/Zion-support/cloud-migration-planner) · [Green Cloud Picker](https://github.com/Zion-support/green-cloud-picker)
+
+© 2026 Zion Tech Group
